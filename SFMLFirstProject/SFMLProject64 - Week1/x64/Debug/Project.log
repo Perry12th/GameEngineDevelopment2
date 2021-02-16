@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML64BitProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  main.cpp
+  Generating Code...
+  Project.vcxproj -> F:\George Brown\Term 6\Game Engine Dev 2\GameEngineDevelopment2\SFMLFirstProject\x64\Debug\SFML64Bit - Week 1.exe
